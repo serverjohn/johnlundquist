@@ -1,6 +1,6 @@
-name: D10 Custom Theme
+name: JL Theme
 type: theme
-description: 'A Drupal 10 custom theme base.'
+description: 'A custom theme for johnlundquist.com.'
 core_version_requirement: '^10'
 base theme: 'false'
 regions:
