@@ -1,0 +1,10 @@
+name: D10 Custom Theme
+type: theme
+description: 'A Drupal 10 custom theme base.'
+core_version_requirement: '^10'
+base theme: 'false'
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  footer: 'Footer'
