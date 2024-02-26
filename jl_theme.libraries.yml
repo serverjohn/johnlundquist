@@ -1,0 +1,7 @@
+# d10_custom_theme_add_css.libraries.yml 
+global-styling:
+  css:
+    base:
+      css/normalize.css: {}
+    theme:
+      css/style.css: {}
