@@ -2,7 +2,9 @@ name: JL Theme
 type: theme
 description: 'A custom theme for johnlundquist.com.'
 core_version_requirement: '^10'
-base theme: 'false'
+base theme: false
+libraries:
+  - jl_theme/global-styling
 regions:
   header: 'Header'
   content: 'Content'
